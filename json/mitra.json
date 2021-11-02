@@ -1,0 +1,27 @@
+[
+    {
+        "nama":"mitra 1",
+        "alamat":"jl. Kucing Lucu",
+        "tarif":"Rp. 100k-500k",
+        "waktu operasional":"Sabtu & Minggu"
+    },
+    {
+        "nama":"mitra 2",
+        "alamat":"jl. Pohon Kelapa",
+        "tarif":"Rp. 100k-300k",
+        "waktu operasional":"Senin - Sabtu"
+    },
+    {
+        "nama":"mitra 3",
+        "alamat":"jl. Bunga Melati",
+        "tarif":"Rp. 400k-700k",
+        "waktu operasional":"Senin - Rabu"
+    },
+    {
+        "nama":"mitra 4",
+        "alamat":"jl. Buah Manggis",
+        "tarif":"Rp. 250k-400k",
+        "waktu operasional":"Hari kerja"
+    }
+
+]
