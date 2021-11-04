@@ -3,13 +3,13 @@
         "nama":"Bintang",
         "alamat":"jl. Kucing Lucu",
         "tarif":"Rp. 100k-500k",
-        "waktu operasional":"Sabtu & Minggu"
+        "wo":"Sabtu & Minggu"
     },
     {
         "nama":"Bima",
         "alamat":"jl. Pohon Kelapa",
         "tarif":"Rp. 100k-300k",
-        "waktu operasional":"Senin - Sabtu"
+        "wo":"Senin - Sabtu"
     },
     {
         "nama":"sakti",
@@ -21,7 +21,7 @@
         "nama":"Fahmi",
         "alamat":"jl. Buah Manggis",
         "tarif":"Rp. 250k-400k",
-        "waktu operasional":"Hari kerja"
+        "wo":"Hari kerja"
     }
 
 ]
